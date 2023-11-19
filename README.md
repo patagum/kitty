@@ -7,5 +7,3 @@ Patagum Theme for kitty
 <p align="center">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/patagum?logoColor=%232888A6&style=for-the-badge">
 </p>
-
-patagum colorway for kitty cross-platform, fast, feature-rich, GPU based terminal
